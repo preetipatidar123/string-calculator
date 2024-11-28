@@ -3,7 +3,7 @@ import { calculator } from "./StringCalculator/stringCalculator";
 
 
 function App() {
-  const input = "//;\n1;2;3";
+  const input = "1";
   const result = calculator(input);
 
   return (
